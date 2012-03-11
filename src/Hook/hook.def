@@ -1,0 +1,6 @@
+SECTIONS
+	.globals READ WRITE SHARED
+
+EXPORTS
+	Start @1
+	Finish @2

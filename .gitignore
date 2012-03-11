@@ -1,0 +1,14 @@
+src/ipch/
+src/Debug/
+src/Release/
+src/Hook/Debug/
+src/Hook/Release/
+src/Hook/x64/
+src/Hook/Hook.vcxproj.user
+src/SmartWheel/Debug/
+src/SmartWheel/Release/
+src/SmartWheel/x64/
+src/SmartWheel/SmartWheel.vcxproj.user
+src/SmartWheel.opensdf
+src/SmartWheel.sdf
+src/SmartWheel.suo
