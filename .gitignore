@@ -1,6 +1,7 @@
 Debug/
 Release/
 x64/
+ipch/
 *.vcxproj.user
 *.opensdf
 *.sdf
